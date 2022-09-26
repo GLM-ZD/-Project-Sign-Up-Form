@@ -3,7 +3,7 @@ body{
     padding: 0px;
 }
 #gauche {
-    background-image: url(img/pp.jpg) ;
+    background-image: url(pp.jpg) ;
     background-position: center;
     background-size: cover;
     width: 30%;
